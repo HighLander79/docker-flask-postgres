@@ -1,5 +1,7 @@
 # Flask + PostgreSQL con Docker Compose
 
+![CI Pipeline](https://github.com/TU-USUARIO/docker-flask-postgres/actions/workflows/ci.yml/badge.svg)
+
 Aplicación Flask conectada a PostgreSQL usando Docker Compose. Proyecto de aprendizaje Docker para portfolio DevOps.
 
 ## 🏗️ Arquitectura
